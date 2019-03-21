@@ -1,0 +1,12 @@
+[submodule "Assets/gm_WebcamTool"]
+	path = Assets/gm_WebcamTool
+	url = https://github.com/GimChuang/gm_WebcamTool
+[submodule "Assets/gm_FileIOUtility"]
+	path = Assets/gm_FileIOUtility
+	url = https://github.com/GimChuang/gm_FileIOUtility
+[submodule "Assets/gm_WebTool"]
+	path = Assets/gm_WebTool
+	url = https://github.com/GimChuang/gm_WebTool
+[submodule "Assets/gm_PhotoTool"]
+	path = Assets/gm_PhotoTool
+	url = https://github.com/GimChuang/gm_PhotoTool
