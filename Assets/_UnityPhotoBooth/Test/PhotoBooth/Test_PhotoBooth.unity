@@ -1480,8 +1480,8 @@ MonoBehaviour:
   width: 1080
   height: 1920
   debugOnGUI: 0
-  debugRegionTex: {fileID: 0}
-  debugRegionColor: {r: 1, g: 1, b: 1, a: 1}
+  debugRegionTex: {fileID: 2800000, guid: 557721d0c58443f44be8a6b885588ea6, type: 3}
+  debugRegionColor: {r: 1, g: 0.92335355, b: 0.18396229, a: 0.60784316}
 --- !u!114 &1507075157
 MonoBehaviour:
   m_ObjectHideFlags: 0
