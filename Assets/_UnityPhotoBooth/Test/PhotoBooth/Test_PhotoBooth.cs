@@ -29,7 +29,7 @@ public class Test_PhotoBooth : MonoBehaviour {
         photoAnimController.Init();
 
         rImg_takenPhoto.gameObject.SetActive(false);
-
+        canvas_keying.SetActive(false);
     }
 
     void OnEnable()

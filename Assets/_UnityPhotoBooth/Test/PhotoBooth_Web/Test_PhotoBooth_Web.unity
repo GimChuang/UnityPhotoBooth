@@ -2962,11 +2962,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebfee67850b57cb4f95aed9f18b11b50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  urlForUploading: http://139.162.14.162:3027/api/fileTrans/upload
+  urlForUploading: http://139.162.xx.xxx:3027/api/fileTrans/upload
   bodyKey: upload
   mimeType: image/png
   needToAppendURLPrefix: 0
-  myUrlPrefix: http://139.162.14.162:3027
+  myUrlPrefix: http://139.162.xx.xxx:3027
 --- !u!1 &1705292534
 GameObject:
   m_ObjectHideFlags: 0
