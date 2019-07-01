@@ -1,7 +1,9 @@
 # UnityPhotoBooth
 Tools for making photo booth games with Unity. 📷
 
+<p align="center">
 <img src="https://github.com/GimChuang/UnityPhotoBooth/blob/master/readme_information/Sample_UnityPhotoBooth.gif" width="200"/>
+</p>
 
 This project is aimed at building a photo booth game with several tools I wrote. ✨ **For more information, please refer to those individual pages**:
 - [UnityWebcamTool](https://github.com/GimChuang/UnityWebcamTool) - Simple scripts to control webcam.
