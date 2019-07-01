@@ -16,6 +16,7 @@ There are 2 sample scenes in this project:
 
 - **Test_PhotoBooth_Web** adds simple functionality of choosing background for chroma-keying, uploading photo, and getting QR codes. 
  
+ 
 Notes
 ---
 - This project uses Git submodules [gm_WebcamTool](https://github.com/GimChuang/gm_WebcamTool), [gm_PhotoTool](https://github.com/GimChuang/gm_PhotoTool),  [gm_FileIOUtility](https://github.com/GimChuang/gm_FileIOUtility), and [gm_WebTool](https://github.com/GimChuang/gm_WebTool). If you want to clone this reposiory, you need to call
@@ -24,4 +25,14 @@ git clone --recurse-submodules <URL>
 ``` 
 - This project is developed with Unity 2018.2.8f1 on Windows 10. NOT tested on Mac OS X.
 - Currently I don't have a green screen in my house, so keying function in the above gif is made with After Effects. It's just for demonstration. 😉
+
+
+License
+---
+MIT
+
+
+Acknowledgement
+---
+This project uses [ProcAmp by Keijiro](https://github.com/keijiro/ProcAmp) and [HSV Color Picker by judah4](https://github.com/judah4/HSV-Color-Picker-Unity) to achieve chroma keying. Also uses  [PlayerPrefsX by Eric Haines](http://wiki.unity3d.com/index.php/ArrayPrefs2#C.23_-_PlayerPrefsX.cs) to save colors with *PlayerPrefs*! 🙇‍♀️
 
