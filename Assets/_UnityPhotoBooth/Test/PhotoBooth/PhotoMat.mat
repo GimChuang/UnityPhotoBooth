@@ -27,8 +27,8 @@ Material:
     - _Brightness: 0
     - _Contrast: 1
     - _DstBlend: 10
-    - _KeyThreshold: 0.5
-    - _KeyTolerance: 0.2
+    - _KeyThreshold: 1
+    - _KeyTolerance: 1
     - _Keying: 1
     - _Opacity: 1
     - _Saturation: 1
@@ -40,7 +40,7 @@ Material:
     m_Colors:
     - _ColorBalance: {r: 1.0000004, g: 0.9999993, b: 1.0000035, a: 0}
     - _FadeToColor: {r: 0, g: 0, b: 0, a: 0}
-    - _KeyCgCo: {r: 0.058489468, g: -0.000000007450581, b: 0, a: 0}
+    - _KeyCgCo: {r: 0, g: 0, b: 0, a: 0}
     - _KeyColor: {r: 0, g: 1, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Scale: {r: 1, g: 1, b: 1, a: 1}
